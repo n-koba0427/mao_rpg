@@ -1,4 +1,3 @@
-from ctypes import set_last_error
 import pyxel
 import helper
 from search import Astar
